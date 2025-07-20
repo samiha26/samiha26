@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiha26" alt="samiha26" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiha26&theme=onedark" alt="samiha26" /></a> </p>
 
 - 🔭 I’m currently working on [Multi-Drone Assisted Palm Oil Fruit Harvesting Application](https://github.com/samiha26/palm_oil_backup)
 
